@@ -9,17 +9,6 @@ yoozhibo.net
 qq.com
 *.qq.com
 v.qq.com
-bilibili.com
-*.bilibili.com
-bilivideo.com
-*.bilivideo.com
-jrkan2023.com
-*.jrkan2023.com
-yoozhibo.net
-*.yoozhibo.net
-qq.com
-*.qq.com
-v.qq.com
 ipjisuanqi.com
 *.ipjisuanqi.com
 tianmuzf.top
